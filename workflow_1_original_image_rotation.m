@@ -7,6 +7,7 @@ else
     
     fileList = dir(strcat(dirSource,'*.tif'));
 end
+
 %fileList = dir(dirSource);
 
 L = length(fileList);
