@@ -10,8 +10,6 @@ dirMap = '/Volumes/mani_group/datasets/image_analysis/img_map/';
 
 %dirBoundary  = '/Users/alba/Documents/data_mutants/img_boundary/';
 %dirCropped = '/Users/alba/Documents/data_mutants/img_cropped/';
-%dirMap = sprintf('/Users/alba/Documents/data_mutants/img_mapped/%d/',...
-%    resolutioN);
 
 fileList = dir(strcat(dirBoundary,'*.mat'));
 
