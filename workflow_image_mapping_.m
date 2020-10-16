@@ -19,7 +19,7 @@ L = length(fileList);
 %L = 1;
 
 tic;
-for indK = 8:8
+for indK = 1:L
     tStartK = toc;
     
     
