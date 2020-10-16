@@ -1,6 +1,6 @@
 addpath sc_map/
 
-resolutioN = 300;
+resolutioN = 200;
 
 dirCropped = '/Volumes/mani_group/datasets/image_analysis/img_cropped/';
 dirBoundary = '/Volumes/mani_group/datasets/image_analysis/img_boundary/';
